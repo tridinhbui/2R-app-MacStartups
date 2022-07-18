@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "855661008012",
+    "project_id": "trash-coin-ebd05",
+    "storage_bucket": "trash-coin-ebd05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855661008012:android:3b3ee3b4ddf532a09b17a9",
+        "android_client_info": {
+          "package_name": "com.example.trash_coin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855661008012-p35kqfgmtje4aopb0djkb0qluomuslvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn27AitApwHloD8tzL_jsLHS6_wGGwObk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855661008012-p35kqfgmtje4aopb0djkb0qluomuslvd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "855661008012-nccfdgmqh16mn9sfg9ki4go6i1fbdmgu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.trashCoin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
